@@ -37,17 +37,6 @@
 🔹 🌐 Live at: iamdhakrey.dev
 ```
 
-### 🧩 **Sudoko Solver** - Advanced Puzzle Engine
-**[Sudoko](https://github.com/iamdhakrey/Sudoko)** - Comprehensive Rust library for solving puzzles of various sizes
-```rust
-// Advanced puzzle solving with multiple strategies!
-🔹 Supports 3x3, 4x4, 5x5 and more puzzle sizes
-🔹 Multiple solving algorithms and strategies
-🔹 WASM & TUI support for integration
-🔹 Published on crates.io
-🔹 Clean, modular Rust architecture
-```
-
 ### 💰 **SpendLite** - Personal Finance Revolution
 <div align="left">
   <img src="https://img.shields.io/badge/🚀_Status-Live_&_Deployed-00D4AA?style=flat-square" />
@@ -56,7 +45,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=🏦+Revolutionizing+personal+finance;💳+Secure+transaction+management;📊+Real-time+expense+tracking;🔄+Live+at+spendlite.iamdhakrey.dev" alt="SpendLite Features" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=🏦+Revolutionizing+personal+finance;💳+Secure+transaction+management;📊+Real-time+expense+tracking;🔄+Live+at+spendlite.Ishida.dev" alt="SpendLite Features" />
 </div>
 
 **🏗️ [spendlite-api](https://github.com/iamdhakrey/spendlite-api)** - The Financial Engine
@@ -349,11 +338,11 @@ const dhakrey = {
         devOps: ["Docker", "GitHub Actions", "Linux"],
         databases: ["PostgreSQL", "SQLite"],
         hardware: ["libgphoto2", "Camera Control", "Printer Integration"],
-        deployment: ["iamdhakrey.dev infrastructure", "CI/CD pipelines"]
+        deployment: ["ishida.dev infrastructure", "CI/CD pipelines"]
     },
     currentFocus: "Building terminal-portfolio & rustycord ecosystem 🌐🤖",
     funFact: "I make computers talk to cameras, printers, and Discord! 📸🖨️💬",
-    websiteStatus: "🟢 iamdhakrey.dev - Always online!",
+    websiteStatus: "🟢 ishida.dev - Always online!",
     motto: "Code is poetry, and I'm writing symphonies! 🎵"
 };
 ```
@@ -370,7 +359,7 @@ const dhakrey = {
 **🌐 Website:** *Visit [iamdhakrey.dev](https://iamdhakrey.dev) for live demos and more projects*
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=2000&color=A855F7&center=true&vCenter=true&width=800&lines=🌟+Thanks+for+visiting+my+profile!;🚀+Check+out+my+projects+at+iamdhakrey.dev;💜+Let's+build+something+amazing+together;🔥+Always+shipping+new+features!" alt="Footer Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=2000&color=A855F7&center=true&vCenter=true&width=800&lines=🌟+Thanks+for+visiting+my+profile!;🚀+Check+out+my+projects+at+ishida.dev;💜+Let's+build+something+amazing+together;🔥+Always+shipping+new+features!" alt="Footer Message" />
 </div>
 
 ---
@@ -380,7 +369,7 @@ const dhakrey = {
 **⭐️ From [iamdhakrey](https://github.com/iamdhakrey) with 💜 | 🌐 [iamdhakrey.dev](https://iamdhakrey.dev)**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time!;🌐+Explore+more+at+iamdhakrey.dev;🚀+Let's+connect+and+collaborate!" alt="Final CTA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time!;🌐+Explore+more+at+ishida.dev;🚀+Let's+connect+and+collaborate!" alt="Final CTA" />
 </div>
 
 </div>
